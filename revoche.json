@@ -1,0 +1,11 @@
+{
+  "payload": {
+    "app": "whatsapp-revisioni-v1",
+    "schema": 1,
+    "updated_at": "2026-10-28T17:50:46.010209+00:00",
+    "revoked_codes": [
+      "6OLHT-6GR9E-QFSY4-PWI7T-DORDA"
+    ]
+  },
+  "signature": "awUztV3QDb1lQ4pacd/MtOSQm/WLvGoRAKj1L6eeeP36dYO8uBm31fNbSsiYdKwEMn81591Bp4tkC7tvkvj8Dw=="
+}
