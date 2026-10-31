@@ -2,10 +2,8 @@
   "payload": {
     "app": "whatsapp-revisioni-v1",
     "schema": 1,
-    "updated_at": "2026-10-31T16:25:04.308117+00:00",
-    "revoked_codes": [
-      "3LDU6-NHC3V-X8WZ8-PFMR9-Q1KVM"
-    ]
+    "updated_at": "2026-10-31T16:35:33.724606+00:00",
+    "revoked_codes": []
   },
-  "signature": "+fYbhTiick/IAY0OxJizATrCEYLyd8fjuGf3FaaRE27eQhbLeyjnQleP+kw/f4fowNtJviMwV/whz1TB6Wd0BA=="
+  "signature": "mUqKPtRBnfJpkf8+5qQp1ESD8fvqfSzGuFNJGfydNMDI7h3AJEUlLZaMDDnPEkdZiH8AO1KxQbX66LgWgzwvBw=="
 }
